@@ -17,7 +17,6 @@ Windows needs to be automated based on
 2. CO2 Readings
 
 
-
 Window Logic -
 
 When CO2 readings go past 800 on NETAtmo
